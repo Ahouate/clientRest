@@ -1,0 +1,5 @@
+configurations.create("default")
+artifacts.add("default", file('stax-1.2.0.jar'))
+dependencies {
+    compile files('stax-1.2.0.jar')
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Gestion de CVs</string>
+    <string name="list">Liste de CVs</string>
+    <string name="detail">Detail</string>
+    <string name="add">Ajouter un CV</string>
+    <string name="ListeDyn">Liste de CVs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="image_content_description">Client REST</string>
+    <string name="lister">Liste des CVs</string>
+    <string name="ajouter">Ajouter CV</string>
+
+
+    <string name="tele">Téléphone</string>
+    <string name="adresse">Adresse</string>
+    <string name="prenom">Prénom</string>
+    <string name="nom">Nom</string>
+    <string name="titre">Titre</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="experience">Expérience</string>
+    <string name="diplome">Diplome</string>
+    <string name="niveau">Niveau</string>
+    <string name="loisir">Loisir</string>
+    <string name="sujet">Sujet</string>
+
+</resources>
